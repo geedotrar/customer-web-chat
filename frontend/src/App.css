@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  cursor: default;
+}
+
+.app-container {
+  min-height: 100vh;
+  background-color: #f7f8fa;
+}
