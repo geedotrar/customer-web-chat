@@ -4,7 +4,7 @@ This project addresses a comprehensive web development assignment for FLIN, focu
 
 
 # Diagram Systems
-![Image](https://github.com/user-attachments/assets/0fdd8089-157d-423f-becf-e7dc7e3d762f)
+![Diagram_systems](https://github.com/user-attachments/assets/ad20bb86-38b3-466e-b752-9bf690dde2d7)
 
 # Back-end Docs: 
 ### https://github.com/geedotrar/flint-web-test/blob/main/backend/README.md
