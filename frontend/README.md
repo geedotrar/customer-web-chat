@@ -22,8 +22,8 @@ http://localhost:3000/
 ## Chat Bot 
 ### Open the Widget Chat
 Open the chatbot widget on the main page or another page to start interacting with the bot.
-![Chat_bot1](https://github.com/user-attachments/assets/992bf491-2b3d-4dcf-8059-5cf9c0c8181a)
- 
+<img width="1440" alt="1" src="https://github.com/user-attachments/assets/6742d50d-a77f-4e55-8d17-6ab933982aa7" />
+
 ### Ask outside of existing resources
 An example when the user asks a question outside the available resources, and the bot responds with a fallback answer.
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/ab051737-570c-4485-86e8-65d96f598b35" />
