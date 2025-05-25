@@ -1,12 +1,11 @@
-version: '3'
 services:
   db:
     image: mysql:latest
-    container_name: express-authentication
+    container_name: express-mysql-container
     ports:
       - "3307:3306"
     environment:
-      - MYSQL_ROOT_PASSWORD=password
-      - MYSQL_DATABASE=express_authentication_db
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: customer_db
     volumes:
-      - /Users/a123/express/docker-volumes/myql/db:/var/lib/mysql
+      - ~/mysql-data/db:/var/lib/mysql

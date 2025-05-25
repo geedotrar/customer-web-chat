@@ -69,8 +69,8 @@ function RegisterPage() {
       <div className="login-form-container">
         <div className="logo-container">
           <img
-            src='/logo.png' 
-            alt="Logo"
+            src='/customer.png' 
+            alt="Customer-Logo"
             className="logo-image"
           />
         </div>

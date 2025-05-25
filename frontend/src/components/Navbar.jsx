@@ -12,17 +12,17 @@ function Navbar({ isAuthenticated, onLogout }) {
 
   return (
     <header className="navbar">
-      <h1 className="navbar-title">FLIN Application</h1>
+      <h1 className="navbar-title">Customer Management</h1>
       <nav className="navbar-links">
         {isAuthenticated ? (
           <>
             <NavLink 
-              to="/leads" 
+              to="/customer" 
               className={({ isActive }) => 
                 isActive ? "navbar-link active" : "navbar-link"
               }
             >
-              Leads
+              Customer
             </NavLink>
             <NavLink 
               to="/lazy-load-image" 

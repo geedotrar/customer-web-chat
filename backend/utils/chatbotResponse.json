@@ -1,4 +1,7 @@
 {
-    "What is loan consolidation?": "Simply put, debt consolidation is the process of combining multiple debts into a single loan. This process is often used to manage complex financial obligations, such as credit card debt, personal loans, or small business loans.",
-    "How can FLIN help me?": "FLIN offers a loan consolidation service through its Advance Fund Program, which aims to simplify debt repayment by merging several loans into one. The benefits offered include:\n\n- Due date consolidation: Simplifies payments by having a single, manageable due date.\n\n- Lower interest rates: Reduces interest burden, making repayments more affordable.\n\n- Credit score improvement: On-time payments can help improve your credit score."
-}
+    "What is loan consolidation?": "Simply put, loan consolidation is the process of combining multiple debts into a single loan. It's often used to manage various financial obligations such as credit card debt, personal loans, or small business loans.",
+    
+    "What does a loan consolidation schema look like in simple terms?": 
+    "It’s a structure where several debts (e.g., credit cards, personal loans) are merged into one new loan with a single monthly payment, a lower interest rate, and one due date.\n\nExample:\nBefore:\n- Loan A: $5,000 @ 18%\n- Loan B: $3,000 @ 12%\n- Loan C: $2,000 @ 15%\n\nAfter:\n- Consolidated Loan: $10,000 @ 9%, one monthly payment"
+  }
+  

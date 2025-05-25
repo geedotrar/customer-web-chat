@@ -34,7 +34,7 @@ function LoginPage() {
 
       if (response.ok) {
         localStorage.setItem('token', data.data);
-        navigate('/leads');
+        navigate('/customer');
       } else {
         const errorMessage =
           typeof data.message === 'string' ? data.message : JSON.stringify(data.message) || 'Failed to login';
@@ -68,8 +68,8 @@ function LoginPage() {
 
         <div className="logo-container">
           <img
-            src='./logo.png' 
-            alt="Logo"
+            src='./customer.png' 
+            alt="Customer-Logo"
             className="logo-image"
           />
         </div>

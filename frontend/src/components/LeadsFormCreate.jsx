@@ -77,7 +77,7 @@ const LeadsFormCreate = ({ onLeadSubmitted }) => {
 
   return (
     <div className="lead-form-container">
-      <h2 className="lead-form-title">Create Leads</h2>
+      <h2 className="lead-form-title">Create Customer</h2>
       <form className="lead-form-content" onSubmit={handleSubmit}>
         <div>
           <label className="lead-form-label">Name</label>

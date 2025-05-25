@@ -53,9 +53,9 @@ function App() {
       <Routes>
       <Route path="/lazy-load-image" element={<LazyLoadImagePage />}/>
       <Route path="/register" element={<RegisterPage />} /> 
-      <Route path="/" element={token ? <Navigate to="/leads" /> : <LoginPage />} />
+      <Route path="/" element={token ? <Navigate to="/customer" /> : <LoginPage />} />
       <Route
-        path="/leads"
+        path="/customer"
         element={
           <ProtectedRoute>
             <LeadsPage />

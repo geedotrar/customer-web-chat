@@ -87,7 +87,7 @@ const LeadsFormList = ({ refreshTrigger }) => {
 
   return (
     <div className="lead-list-container">
-      <h2 className="lead-list-title">Leads List</h2>
+      <h2 className="lead-list-title">Customers list</h2>
       {error && (
         <div className="lead-message error">
           {error}
